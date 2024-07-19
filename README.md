@@ -1,1 +1,16 @@
-# OngleleafBucheonGrandma
+<pre>
+@font-face {
+    font-family: "OngleleafBucheonGrandma";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBucheonGrandma/OngleleafBucheonGrandma.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBucheonGrandma/OngleleafBucheonGrandma.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBucheonGrandma/OngleleafBucheonGrandma.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafBucheonGrandma {
+    font-family: "OngleleafBucheonGrandma";
+}
+  
+</pre>
